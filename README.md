@@ -1,2 +1,2 @@
-# supplychain-scout
-A dashboard for supplier delivery delays and inventory risks
+# SupplyChain Scout
+An interactive supplier delay and inventory dashboard.
